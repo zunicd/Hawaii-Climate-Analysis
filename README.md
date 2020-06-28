@@ -124,7 +124,7 @@ Available Routes:
     ...
 ```
 
-- **/api/v1.0/\<start>** and ***/api/v1.0/\<start>/\<end>***
+- ***/api/v1.0/\<start>*** and ***/api/v1.0/\<start>/\<end>***
 
   Returns a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
 
